@@ -1,0 +1,3 @@
+# 基幹システムの CSV（Shift_JIS・CRLF）を、改行を変えずにそのまま配る
+*.csv -text
+*.xlsx binary
